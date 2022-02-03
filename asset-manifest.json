@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/IGI-29/MiniGames-in-react.git/static/css/main.0926c662.css",
+    "main.js": "/IGI-29/MiniGames-in-react.git/static/js/main.43f17380.js",
+    "static/media/paperrotated.png": "/IGI-29/MiniGames-in-react.git/static/media/paperrotated.2a8e41e9b4bca46fc7f6.png",
+    "static/media/rock.png": "/IGI-29/MiniGames-in-react.git/static/media/rock.dd7d83bbdbf497278695.png",
+    "static/media/scissorrotated.png": "/IGI-29/MiniGames-in-react.git/static/media/scissorrotated.167f224d5d5e0b666019.png",
+    "static/media/paper.png": "/IGI-29/MiniGames-in-react.git/static/media/paper.3b217422c226d6703399.png",
+    "static/media/rockrotated.png": "/IGI-29/MiniGames-in-react.git/static/media/rockrotated.257018ea9f5ff65fdd67.png",
+    "static/media/scissor.png": "/IGI-29/MiniGames-in-react.git/static/media/scissor.aaeb38681dc4e1f37b6a.png",
+    "index.html": "/IGI-29/MiniGames-in-react.git/index.html",
+    "main.0926c662.css.map": "/IGI-29/MiniGames-in-react.git/static/css/main.0926c662.css.map",
+    "main.43f17380.js.map": "/IGI-29/MiniGames-in-react.git/static/js/main.43f17380.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0926c662.css",
+    "static/js/main.43f17380.js"
+  ]
+}
